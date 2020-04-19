@@ -24,4 +24,4 @@ You should begin by scraping the links from the list page, then follow each link
 
 ---
 
-Finished with your project?  Let us know your results on Twitter! #pycon2020 @kimberlyfessel 
+Finished with your project?  Let us know your results on Twitter and/or LinkedIn! #pycon2020 @kimberlyfessel 
