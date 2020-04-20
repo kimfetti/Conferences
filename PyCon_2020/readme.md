@@ -8,4 +8,5 @@ Kimberly Fessel * April 2020
 
 ## Scraping Wikipedia
 
+- [Scraping Wikipedia Notebook](scraping_wiki.ipynb)
 - [Mini Project Ideas](mini_project_ideas.md)
