@@ -1,5 +1,5 @@
 # It's Officially Legal so Let's Scrape the Web
-Kimberly Fessel • April 2020
+Kimberly Fessel • April 2020 • [Accompanying Video Tutorial](https://www.youtube.com/watch?v=RUQWPJ1T6Zc)
 
 ## Scraping Basics
 
