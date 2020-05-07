@@ -1,3 +1,7 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kimfetti/Conferences/master) 
+
+Click above to see this repo and run Jupyter Notebook on [binder](https://mybinder.org/) without having to set up your own environment. 
+
 # Conferences
 
 Kimberly Fessel's Conference Materials
