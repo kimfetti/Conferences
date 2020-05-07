@@ -3,7 +3,7 @@
 pandas
 matplotlib
 seaborn
-plotly
+plotly==3.10.0
 requests
 beautifulsoup4
 scikit-learn
