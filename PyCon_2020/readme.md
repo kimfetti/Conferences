@@ -10,3 +10,7 @@ Kimberly Fessel • April 2020 • [Accompanying Video Tutorial](https://www.you
 
 - [Scraping Wikipedia Notebook](scraping_wiki.ipynb)
 - [Mini Project Ideas](mini_project_ideas.md)
+
+## Conclusion
+
+- [Selenium Demo](selenium_demo.ipynb)
