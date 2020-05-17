@@ -1,0 +1,9 @@
+#installing required packages for binder to build external libraries
+
+pandas
+matplotlib
+seaborn
+plotly==3.10.0
+requests
+beautifulsoup4
+scikit-learn
