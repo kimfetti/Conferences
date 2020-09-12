@@ -6,5 +6,5 @@ Kimberly Fessel • October 2020
 - COMING SOON!
 
 ## Resources
-- [Notebook of Contestants' and Official Scaled It! Solutions](PyGotham_2020_ScaledIt.ipynb)
+- Contestants' and Official Scaled It! Solutions - COMING SOON!
 - [Jacques' Pseudocode](jacques_pseudocode.png)
