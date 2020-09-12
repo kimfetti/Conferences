@@ -7,6 +7,7 @@ Click above to see this repo and run Jupyter Notebook on [binder](https://mybind
 Kimberly Fessel's Conference Materials
 
 ### 2020
+- **[PyGotham TV 2020](/PyGotham_2020)** | *Scaled It! Three Contestants Attempt to Reduce Computational Time* | October 2020
 - **[PyOhio 2020](/PyOhio_2020)** | *Great Scott! Delorean for Datetime Manipulation in Python* | July 2020
 - **[PyCon 2020](/PyCon_2020)** | *It's Officially Legal so Let's Scrape the Web* | April 2020
 - **[ODSC East 2020](/ODSC_East_2020)** | *Level Up: Fancy NLP with Straightforward Tools* | April 2020
