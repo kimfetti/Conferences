@@ -6,5 +6,22 @@ Kimberly Fessel • October 2020
 - COMING SOON!
 
 ## Resources
-- Contestants' and Official Scaled It! Solutions - COMING SOON!
+
+#### Brittany - Sum Square Difference
+
+- Problem Statement
+- Brittany's Solution
+- Official Scaled It! Solutions (Vectorization, Gauss's Formula)
+
+#### Ryan - Longest Collatz Sequence
+
+- Problem Statement
+- Ryan's Solution
+- Official Scaled It! Solution (Memoization)
+
+### JJ - Largest Prime Factor
+
+- Problem Statement
 - [Jacques' Pseudocode](jacques_pseudocode.png)
+- Brittany's Solution
+- Official Scaled It! Solutions ($$\mathcal{O}(N) and \mathcal{O}\sqrt(N)$$)
