@@ -17,7 +17,7 @@ Kimberly Fessel • October 2020
 
 - [Problem Statement](ryan_problem_statement.jpg) - [Project Euler #14](https://projecteuler.net/problem=14)
 - [Ryan's Solution](ryan_solution.ipynb)
-- [Official Scaled It! Solution](ryan_official_scaledit_solutions.ipynb) (Memoization)
+- [Official Scaled It! Solutions](ryan_official_scaledit_solutions.ipynb) (Memoization)
 
 #### JJ - Largest Prime Factor
 
