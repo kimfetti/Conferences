@@ -24,4 +24,4 @@ Kimberly Fessel • October 2020
 - Problem Statement
 - [Jacques' Pseudocode](jacques_pseudocode.png)
 - Brittany's Solution
-- Official Scaled It! Solutions ($\mathcal{O}(N)\text{ and }\mathcal{O}\sqrt(N)$)
+- Official Scaled It! Solutions <img src="https://render.githubusercontent.com/render/math?math=\mathcal{O}(N)\text{ and }\mathcal{O}\sqrt(N)">
