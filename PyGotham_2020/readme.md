@@ -24,4 +24,4 @@ Kimberly Fessel • October 2020
 - [Problem Statement](jj_problem_statement.jpg) - [Project Euler #3](https://projecteuler.net/problem=3)
 - [Jacques' Pseudocode](jacques_pseudocode.png)
 - [JJ's Solution](jj_solution.py) (<img src="https://render.githubusercontent.com/render/math?math=\mathcal{O}(N^2)">)
-- [Official Scaled It! Solutions](jj_official_scaledit_solutions.ipynb) (<img src="https://render.githubusercontent.com/render/math?math=\mathcal{O}(N), \mathcal{O}\sqrt(N)">)
+- [Official Scaled It! Solutions](jj_official_scaledit_solutions.ipynb) (<img src="https://render.githubusercontent.com/render/math?math=\mathcal{O}(N), \mathcal{O}(\sqrt N)">)
