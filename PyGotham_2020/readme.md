@@ -4,9 +4,6 @@ Kimberly Fessel, PhD • October 2020
 
 Kimberly's Contact Info: [LinkedIn](https://www.linkedin.com/in/kimberlyfessel/) | [Twitter](https://twitter.com/kimberlyfessel) | [Website](http://kimberlyfessel.com/) | [YouTube](https://www.youtube.com/channel/UCirb0k3PnuQnRjh8tTJHJuA)
 
-## Video 
-- COMING SOON!
-
 ## Resources
 
 #### Brittany - Sum Square Difference
