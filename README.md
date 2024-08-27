@@ -4,7 +4,10 @@ Click above to see this repo and run Jupyter Notebook on [binder](https://mybind
 
 # Conferences
 
-Kimberly Fessel's Conference Materials
+Kimberly Fessel's Conference Talk  Materials
+
+### 2024
+- **[Data Umbrella 2024](/DataUmbrella_2024)** | *Polars for Data Analysis in Python* | Oct 2024
 
 ### 2020
 - **[PyGotham 2020](/PyGotham_2020)** | *Scaled It! Three Contestants Attempt to Reduce Computational Time* | Oct 2020
