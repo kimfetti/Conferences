@@ -3,6 +3,6 @@ Kimberly Fessel • Tuesday, October 8, 2024 • Presentation Recording - coming
 
 ## Materials
 
-- Slides - coming soon!
-- [Getting Started with Polars in Python](01_Getting_Started.ipynb)
-- [Advanced Data Analysis with Polars](02_Advanced_Data_Analysis.ipynb)
+- [Slides](DataUmbrella_2024_KFessel_Deck.pdf)
+- [Getting Started with Polars in Python](01_Getting_Started.ipynb) Notebook
+- [Advanced Data Analysis with Polars](02_Advanced_Data_Analysis.ipynb) Notebook
