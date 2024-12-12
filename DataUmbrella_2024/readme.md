@@ -1,5 +1,5 @@
 # Polars for Data Analysis in Python
-Kimberly Fessel • Tuesday, October 8, 2024 • Presentation Recording - coming soon!
+Kimberly Fessel • Tuesday, October 8, 2024 • [Presentation Recording](https://www.youtube.com/watch?v=5V_MvnwTVwc)
 
 ## Materials
 
