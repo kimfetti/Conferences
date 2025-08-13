@@ -3,6 +3,6 @@ Kimberly Fessel • Tuesday, October 8, 2024 • [Presentation Recording](https:
 
 ## Materials
 
-- [Slides](DataUmbrella_2024_KFessel_Deck.pdf)
+- [Slides](https://zenodo.org/records/16816443) available on Zenodo
 - [Getting Started with Polars in Python](01_Getting_Started.ipynb) Notebook
 - [Advanced Data Analysis with Polars](02_Advanced_Data_Analysis.ipynb) Notebook
